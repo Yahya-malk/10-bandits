@@ -9,4 +9,5 @@ class bandit:
         #reward is the reward from the arm + a random guassian noise mean 0 and std 1
         reward=self.true_q_values[arm]+np.random.normal(0,1)
         return reward
-    
+
+
