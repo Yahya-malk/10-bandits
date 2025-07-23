@@ -22,7 +22,6 @@ The following plots summarize performance:
 |----------------|-------------------------|
 | ![Average Reward](bandit_results.png) | ![Optimal Action](bandit_results_all_strategies.png) |
 
-📂 Additional `.npy` files with raw results are included for deeper analysis.
 
 ---
 
